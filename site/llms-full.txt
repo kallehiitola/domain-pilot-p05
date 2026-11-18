@@ -1,0 +1,26 @@
+# How much fabric do i need
+
+> Plan the fabric length for equal rectangular pieces such as cushion faces, panels or simple craft parts. Include seam allowances, shrinkage and the supplier’s purchase increment.
+
+## Calculator
+- [Open the calculator](https://howmuchfabricdoineed.com/): Four 40 × 50 cm pieces, 1 cm seams and a 140 cm usable width need 1.04 m, rounded to 1.10 m in 0.10 m increments.
+
+## Method
+Add two seam allowances to each finished piece dimension and divide by one minus the shrinkage fraction. Fit whole pieces across the usable bolt width, round the required rows up, and multiply by cut-piece length. Round the final fabric length up to the purchase increment. Rotation is considered only when explicitly allowed.
+
+## Limits
+This is a rectangular cutting layout, not a garment-pattern estimator. Keep rotation off when grain, nap or a directional print prevents it. The model applies the same shrinkage fraction in both directions. Pattern matching, bias cutting and fabric defects require an additional cutting plan.
+
+## Supporting pages
+- [Method and assumptions](https://howmuchfabricdoineed.com/method/)
+- [About, editorial responsibility and privacy](https://howmuchfabricdoineed.com/about/)
+
+## Sources
+- [NIST: SI units and measurement](https://www.nist.gov/pml/owm/metric-si/si-units)
+
+## Worked examples
+### Example 1
+Four 40 × 50 cm pieces, 1 cm seams and a 140 cm usable width need 1.04 m, rounded to 1.10 m in 0.10 m increments.
+
+### Example 2
+Three of the same pieces fit in one row: 0.52 m, rounded up to 0.60 m.
