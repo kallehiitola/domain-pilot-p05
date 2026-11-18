@@ -1,4 +1,4 @@
-# How much fabric do i need
+# How much fabric do I need?
 
 > Plan the fabric length for equal rectangular pieces such as cushion faces, panels or simple craft parts. Include seam allowances, shrinkage and the supplier’s purchase increment.
 
@@ -6,7 +6,7 @@
 - [Open the calculator](https://howmuchfabricdoineed.com/): Four 40 × 50 cm pieces, 1 cm seams and a 140 cm usable width need 1.04 m, rounded to 1.10 m in 0.10 m increments.
 
 ## Guide
-- [How to how much fabric do i need](https://howmuchfabricdoineed.com/guide/): measurement inputs, formula, assumptions, limits and a worked example.
+- [How to work out how much fabric you need](https://howmuchfabricdoineed.com/guide/): step-by-step measuring, common mistakes, formula, limits and a worked example.
 
 ## Method
 Add two seam allowances to each finished piece dimension and divide by one minus the shrinkage fraction. Fit whole pieces across the usable bolt width, round the required rows up, and multiply by cut-piece length. Round the final fabric length up to the purchase increment. Rotation is considered only when explicitly allowed.
@@ -20,6 +20,17 @@ This is a rectangular cutting layout, not a garment-pattern estimator. Keep rota
 
 ## Sources
 - [NIST: SI units and measurement](https://www.nist.gov/pml/owm/metric-si/si-units)
+
+## Step by step
+1. Measure the finished width and length of each rectangular piece and count how many you need.
+2. Add seam allowance to every edge. 1.5 cm (5/8 in) is a common dressmaking allowance; follow your pattern if it says otherwise.
+3. Check the usable width of the bolt, leaving out the selvedges.
+4. Add a shrinkage allowance if you will prewash the fabric, and round up to the length the shop sells in.
+
+## Common mistakes
+- Using the full bolt width including the selvedges.
+- Rotating pieces on a directional print or napped fabric such as velvet. Turn off rotation in the calculator for these.
+- Skipping the prewash allowance for cotton or linen that may shrink.
 
 ## Worked examples
 ### Example 1
