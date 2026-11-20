@@ -1,40 +1,58 @@
 # How much fabric do I need?
 
-> Plan the fabric length for equal rectangular pieces such as cushion faces, panels or simple craft parts. Include seam allowances, shrinkage and the supplier’s purchase increment.
+> Plan fabric yardage or meterage for equal rectangular pieces such as cushion covers, napkins, panels, or craft blocks—accounting for seams, usable bolt width, shrinkage, and store cut increments.
 
 ## Calculator
-- [Open the calculator](https://howmuchfabricdoineed.com/): Four 40 × 50 cm pieces, 1 cm seams and a 140 cm usable width need 1.04 m, rounded to 1.10 m in 0.10 m increments.
+- [Open the calculator](https://howmuchfabricdoineed.com/): US quilting bolt: four 16 × 16 in pillow panels with 0.5 in seams, 5% shrinkage, and 42 in usable width need 0.99 yd, rounded to 1.00 yd. Metric: four 40 × 50 cm pieces, 1 cm seams, and 140 cm usable width need 1.04 m cut length, rounded to 1.10 m in 0.10 m steps.
 
 ## Guide
-- [How to work out how much fabric you need](https://howmuchfabricdoineed.com/guide/): step-by-step measuring, common mistakes, formula, limits and a worked example.
+- [How to work out how much fabric you need](https://howmuchfabricdoineed.com/guide/): step-by-step measuring, common mistakes, and ordering checklist.
 
-## Method
-Add two seam allowances to each finished piece dimension and divide by one minus the shrinkage fraction. Fit whole pieces across the usable bolt width, round the required rows up, and multiply by cut-piece length. Round the final fabric length up to the purchase increment. Rotation is considered only when explicitly allowed.
+## Formula and method
+Cut piece = (finished size + 2 × seam) / (1 − shrinkage); Pieces across = floor(usable bolt width / cut width); Rows = ceiling(pieces / pieces across); Buy length = ceiling(rows × cut length / increment) × increment.
+
+Expand each finished piece dimension by two seam allowances and divide by one minus the shrinkage fraction. Pack whole cut pieces across the usable bolt width (rounding down), calculate required rows (rounding up), multiply by cut-piece length, and round up to your fabric store purchase increment. Optional 90-degree rotation compares both orientations and picks the shorter cut.
 
 ## Limits
-This is a rectangular cutting layout, not a garment-pattern estimator. Keep rotation off when grain, nap or a directional print prevents it. The model applies the same shrinkage fraction in both directions. Pattern matching, bias cutting and fabric defects require an additional cutting plan.
+Designed for equal rectangular cuts, not curved garment patterns. Keep 90-degree rotation unchecked for napped fabrics (velvet, corduroy), one-way prints, or strict grainline projects. Pattern centering, plaid matching, and bias binding require extra yardage.
 
 ## Supporting pages
 - [Method and assumptions](https://howmuchfabricdoineed.com/method/)
 - [About, editorial responsibility and privacy](https://howmuchfabricdoineed.com/about/)
 
 ## Sources
-- [NIST: SI units and measurement](https://www.nist.gov/pml/owm/metric-si/si-units)
+- [Wikipedia: Cloth bolt standard widths](https://en.wikipedia.org/wiki/Bolt_(cloth))
+- [Wikipedia: Seam allowance conventions](https://en.wikipedia.org/wiki/Seam_allowance)
+- [NIST: US customary to metric unit conversions](https://www.nist.gov/pml/owm/metric-si/unit-conversion/approximate-conversions-us-customary-measures-metric)
+
+## Standard fabric bolt widths, usable widths, and typical shrinkage
+
+Always measure usable width between selvedge pinholes before cutting—nominal widths include unfinished edges.
+
+| Fabric category | Nominal bolt width | Typical usable width | Typical pre-wash shrinkage |
+| --- | --- | --- | --- |
+| Quilting cotton | 44–45 in (112–114 cm) | 41–43 in (104–109 cm) | 3%–5% |
+| Apparel cotton / linen | 54–58 in (137–147 cm) | 52–56 in (132–142 cm) | 4%–8% (linen higher) |
+| Home decor / upholstery | 54 in (137 cm) | 51–53 in (130–135 cm) | 1%–3% (often dry-clean) |
+| Fleece / knits / jersey | 58–60 in (147–152 cm) | 56–58 in (142–147 cm) | 2%–5% |
+| Extra-wide quilt backing | 108 in (274 cm) | 104–106 in (264–269 cm) | 3%–5% |
 
 ## Step by step
-1. Measure the finished width and length of each rectangular piece and count how many you need.
-2. Add seam allowance to every edge. 1.5 cm (5/8 in) is a common dressmaking allowance; follow your pattern if it says otherwise.
-3. Check the usable width of the bolt, leaving out the selvedges.
-4. Add a shrinkage allowance if you will prewash the fabric, and round up to the length the shop sells in.
+1. Measure the finished width and length of each rectangular piece and count how many identical pieces you need.
+2. Add seam allowance to every stitched edge (commonly 1/2 in or 5/8 in; double-turned hems need extra width).
+3. Check the usable bolt width after subtracting the unfinished selvedge edges (typically 1 to 1.5 in total off the nominal bolt width).
+4. Add a pre-wash shrinkage percentage for natural fibers such as cotton or linen, and set the smallest increment your fabric store sells (often 0.25 yd or 0.1 m).
+5. Only allow 90-degree piece rotation if the fabric is non-directional and has no nap or grainline restriction.
 
 ## Common mistakes
-- Using the full bolt width including the selvedges.
-- Rotating pieces on a directional print or napped fabric such as velvet. Turn off rotation in the calculator for these.
-- Skipping the prewash allowance for cotton or linen that may shrink.
+- Using nominal bolt width (such as 45 in) instead of usable printed width (often 42 to 43 in inside the selvedges).
+- Dividing total piece area by bolt width, which ignores wasted strips along the edge when pieces do not divide evenly across the bolt.
+- Rotating pieces on velvet, corduroy, one-way prints, or directional stripes, causing mismatched sheen or upside-down motifs.
+- Skipping pre-wash shrinkage on linen or unwashed cotton, which can shrink 3% to 8% in length.
 
 ## Worked examples
 ### Example 1
-Four 40 × 50 cm pieces, 1 cm seams and a 140 cm usable width need 1.04 m, rounded to 1.10 m in 0.10 m increments.
+Metric: four 40 × 50 cm pieces, 1 cm seams, and 140 cm usable width need 1.04 m cut length, rounded to 1.10 m in 0.10 m steps.
 
 ### Example 2
-Three of the same pieces fit in one row: 0.52 m, rounded up to 0.60 m.
+US quilting bolt: four 16 × 16 in pillow panels with 0.5 in seams, 5% shrinkage, and 42 in usable width need 0.99 yd, rounded to 1.00 yd.
